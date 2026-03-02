@@ -4,7 +4,7 @@
 
 int main() {
 
-    std::cout << "Hello, Git! Horiachyi commit" << std::endl;
+    std::cout << "Hello, Git! Horiachyi comit" << std::endl;
 
     return 0;
 
